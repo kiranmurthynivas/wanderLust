@@ -122,8 +122,3 @@ body {
     padding: 0;
 }
 
-/* Map */
-#map { 
-    height: 400px;
-    width: 80vh;
-}
